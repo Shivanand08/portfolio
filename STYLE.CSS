@@ -17,9 +17,10 @@
 	font-weight: bolder;
 	transition-duration: 0.5s;
 
+
 }
 .navmenu:hover{
-	color: black;
+	color: #f2e963;
 }
 .myname{
 	font-size: 30px;
@@ -28,6 +29,7 @@
 	color: royalblue;
 	text-shadow: 0px 0px 3px white;
 	font-variant: small-caps;
+	text-decoration: underline solid royalblue;
 }
 .sect
 {
@@ -117,4 +119,24 @@ html{
 }
 .projects{
 	height: 600px;
+}
+.cnt_form{
+	padding: 15px;
+	font-size: 15px;
+	color: black;
+}
+.form-group{
+	font-size: 25px !important;
+	font-weight: bolder;
+}
+.contact{
+	background-color: #dae0da;
+}
+.footer{
+	background-color: grey;
+	height: 50px;
+	color: white;
+	text-align: center;
+	line-height: 50px;
+	font-size: 30px;
 }
